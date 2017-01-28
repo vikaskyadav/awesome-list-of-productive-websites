@@ -12,12 +12,12 @@ A curated list :book: of awesome places on the internet for learning and to boos
 
 <ul> 
 <li><a href="https://www.ted.com/" target="_blank">Ted</a> </li>
-<li><a>Quora</a> </li>
-<li><a>Vocabulary.com</a> </li>
-<li><a>Lumosity.com</a> </li>
-<li><a>Howtodothings</a> </li>
-<li><a>Wikihow.com</a></li>
-<li><a>Freerice</a></li>
+<li><a href="http://www.quora.com/">Quora</a> </li>
+<li><a href="http://www.vocabulary.com/">Vocabulary.com</a> </li>
+<li><a href="http://www.lumosity.com/">Lumosity.com</a> </li>
+<li><a href="http://www.howtodothings.com/">Howtodothings</a> </li>
+<li><a href="http://www.wikihow.com/Main-Page">Wikihow.com</a></li>
+<li><a href="http://www.freerice.com">Freerice</a></li>
 <li><a>CodeAcademy</a></li>
 <li><a>Anki</a></li>
 <li><a>Investopedia</a></li>
