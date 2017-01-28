@@ -11,7 +11,7 @@ A curated list :book: of awesome places on the internet for learning and to boos
 
 
 <ul> 
-<li><a src="www.ted.com">Ted</a> </li>
+<li><a href="<www.ted.com>">Ted</a> </li>
 <li><a>Quora</a> </li>
 <li><a>Vocabulary.com</a> </li>
 <li><a>Lumosity.com</a> </li>
