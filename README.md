@@ -8,8 +8,6 @@ A curated list :book: of awesome places on the internet for learning and to boos
 <img src="https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width:100%;"> 
 <br>
 
-To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
-
 
 <ul> 
 <li><a href="https://www.ted.com/" target="_blank">Ted</a> </li>
@@ -63,5 +61,6 @@ TODO
 
 
 Wish to contribute to this repository ?
-Awesome then.
--> Raise a request || create an issue.
+Awesome then.To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
+
+
