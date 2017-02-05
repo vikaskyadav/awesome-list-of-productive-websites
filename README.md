@@ -27,6 +27,10 @@ A curated list :book: of awesome places on the internet for learning and to boos
 <li><a href="http://nicknotas.com/">Nicknotas</a></li>
 <li><a href="http://www.gutenburg.org/">Gutenburg</a></li>
 <li><a href="http://www.coursera.org/">Coursera</a></li>
+<li><a href="http://www.udacity.com/"> Udacity </a></li>
+<li><a href="https://www.udemy.com"> Udemy </a></li>
+<li><a href="https://www.bloc.io/">Bloc.io </a></li>
+<li><a href="https://www.codesmith.io"> codesmith.io </a></li>
 <li><a href="http://www.stumbleupon.com/">Stumbleupon</a></li>
 <li><a href="http://www.lifehacker.com/">Lifehacker</a></li>
 <li><a href="http://www.inc.com/">INC</a></li>
